@@ -1,2 +1,1 @@
-# kaggle-restrevpred
-Kaggle Restaurant Revenue Prediction, final code
+This is a mirror of my private bitbucket repository.
